@@ -1,0 +1,10 @@
+#error-msg{
+    display: none;
+    padding-top: 1em;
+}
+#dismissBtn{
+    border: none;
+    margin-left: .4em;
+
+    
+}

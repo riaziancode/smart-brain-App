@@ -1,0 +1,10 @@
+.Tilt{
+    background: linear-gradient(to right, rgb(232, 110, 208) 0%, rgb(119, 227, 237) 100%)
+}
+.logo{
+border: 2px solid blue;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
