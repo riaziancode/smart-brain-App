@@ -1,2 +1,2 @@
 # smart-brain-App
-This is the front end of the tutorial based project which can detect faces in an image with clarifai face detection model
+Create in ReactJS, this is the front end of the mini project which can detect faces in an image via AI API of the clarifai face detection model
